@@ -12,7 +12,6 @@ namespace Notes.Application.Notes.Commands.UpdateNote
     public class UpdateNotCommandHandler
         : IRequestHandler<UpdateNoteCommand>
     {
-
         private readonly INotesDbContext _dbContext;
 
         public UpdateNotCommandHandler(INotesDbContext dbContext) => _dbContext = dbContext;

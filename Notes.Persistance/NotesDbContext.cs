@@ -12,7 +12,8 @@ namespace Notes.Persistance
 {
     public class NotesDbContext : DbContext, INotesDbContext
     {
-        System.Data.Entity.DbSet<Note> INotesDbContext.Notes { get ; set; }
+       
+        public DbSet<Note> Notes { get; set; }
 
         public NotesDbContext(DbContextOptions<NotesDbContext> options) : base(options) { }
 

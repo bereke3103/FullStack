@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "8K1AL+Fe323Eb3hxl5VTzJpwfvDyBqkRPU693kBIG2UsHdIjs/rTch2f5O5OUbKPcFsRceNP3gfj8K6rE6DXFw==",
+  "dgSpecHash": "+YfILxim7Y+sa1dhanuv0fHCyufhApbmyX6WJDaN0hmhA2Qm76K1LuqLFT51yEolDetRHdRyTChsZXLqcJHbYQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Береке\\Desktop\\course\\TestWebApi\\Solution1\\Notes.Persistance\\Notes.Persistance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Береке\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Береке\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Users\\Береке\\.nuget\\packages\\fluentvalidation\\11.4.0\\fluentvalidation.11.4.0.nupkg.sha512",
+    "C:\\Users\\Береке\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.4.0\\fluentvalidation.dependencyinjectionextensions.11.4.0.nupkg.sha512",
     "C:\\Users\\Береке\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
     "C:\\Users\\Береке\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\Береке\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.0.0\\mediatr.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "C:\\Users\\Береке\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Береке\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.2\\microsoft.data.sqlite.core.7.0.2.nupkg.sha512",
     "C:\\Users\\Береке\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.2\\microsoft.entityframeworkcore.7.0.2.nupkg.sha512",

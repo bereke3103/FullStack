@@ -58,9 +58,21 @@
               "target": "Package",
               "version": "[6.4.4, )"
             },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.4.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.4.0, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
